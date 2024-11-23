@@ -6,7 +6,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Database initialization
-DATABASE = 'registration.db'
+DATABASE = 'registration.db
 
 def init_db():
     """Initialize the SQLite database."""
